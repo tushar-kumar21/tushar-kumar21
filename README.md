@@ -12,7 +12,7 @@
 - 💬 Ask me about **Reactjs, Nextjs, Javascript, Firebase, Nodejs**
 
 - 📫 How to reach me(Email) **tusharcr4@gmail.com**
-- 📫 How to reach me(Linkedin) **linkedin.com/in/tusharkumar21/**
+- 📫 How to reach me(Linkedin) **https"//www.linkedin.com/in/tusharkumar21/**
 
 - ⚡ Fun fact **I am Focused**
 
