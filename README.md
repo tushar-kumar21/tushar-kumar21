@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-kumar21&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-kumar21" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](awailable soon)
+- 🔭 I’m currently working on E-commerce-app(ShopExpress)
 
 - 🌱 I’m currently learning **Advanced Nextjs and SASS**
 
