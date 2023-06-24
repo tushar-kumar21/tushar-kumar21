@@ -1,4 +1,5 @@
-![logo](https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg)
+![logo](https://media4.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=ecf05e475ijrfum0aboy5xhjszpohgmrhy2krzgwwhbs2dan&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![logo](https://media1.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif?cid=ecf05e475ijrfum0aboy5xhjszpohgmrhy2krzgwwhbs2dan&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <h1 align="center">Hi, I'm Tushar Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
